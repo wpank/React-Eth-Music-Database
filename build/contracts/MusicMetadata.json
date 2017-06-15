@@ -1,0 +1,15 @@
+{
+  "contract_name": "MusicMetadata",
+  "abi": [],
+  "unlinked_binary": "0x60606040523415600b57fe5b5b60338060196000396000f30060606040525bfe00a165627a7a723058209b6ee5c1f3a200616cd00395330d5439fb0b10e8be1afb9a5234c5b84710185a0029",
+  "networks": {
+    "1497554393417": {
+      "events": {},
+      "links": {},
+      "address": "0xd9ff42f20958ddde25ade1ac599a0cf7dbac6fe2",
+      "updated_at": 1497565781893
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1497565781893
+}
